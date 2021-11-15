@@ -41,7 +41,7 @@ if (!empty($_POST) && !empty($_FILES)) {
 <body>
     <?php include 'fragments/header.php'; ?>
     <a href="/">
-        <h1>Strona główna</h1>
+        <h2>Strona główna</h2>
     </a>
 
     <h2>Dodaj nowy post</h2>

@@ -34,7 +34,7 @@ $values = $results->fetch_assoc();
     <?php include 'fragments/header.php'; ?>
 
     <a href="/">
-        <h1>Strona główna</h1>
+        <h2>Strona główna</h2>
     </a>
     <form method="get" action="/add.php">
         <button type="submit" class="button">Dodaj nowy post</button>
