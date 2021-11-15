@@ -1,0 +1,11 @@
+{
+    "login": "root",
+    "pass": "",
+    "basename": "betterinsta",
+    "host": "localhost",
+
+    "postid": "id",
+	"posturl": "url",
+    "posttitle": "title",
+	"postdesc": "description"
+}
